@@ -10,22 +10,22 @@
     "start": "node index.js"
   },
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {KANGO~MhwnDJ7J#9Le9iuBgjsxT151qR72-v0RekFHEG17sQw_KPkkOy84
       "description": "Enter your KANGO-XMD session id here; must start with KANGO~",
       "value": "",
       "required": false
     },
-    "BOT_NAME": {
+    "BOT_NAME": {MONSTER TECH BOT
       "description": "Enter your bot name here",
       "value": "KANGO-XMD",
       "required": false
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {2349166427518
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
       "value": "",
       "required": true
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {MONSTER
       "description": "owner name",
       "value": "",
       "required": true
@@ -45,12 +45,12 @@
       "value": "",
       "required": false
     },
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {GITHUB
       "description": "Enter exactly the same app name you've entered above.",
       "value": "",
       "required": false
     },
-    "TIMEZONE": {
+    "TIMEZONE": {00.00.27
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
       "value": "Africa/Accra",
       "required": false
